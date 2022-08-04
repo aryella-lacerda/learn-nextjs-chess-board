@@ -1,0 +1,18 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+  background-color: gray;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.board {
+  background-color: red;
+  height: 400px;
+  aspect-ratio: 1;
+  display: flex;
+  flex-wrap: wrap;
+}
